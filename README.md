@@ -5,7 +5,7 @@ Two fun browser-based games built using HTML, CSS, and JavaScript:
 ## 🎮 1. Egg Catcher
 
 Catch the falling eggs using a basket. The eggs fall from random positions and the player scores a point for each successful catch. Miss three eggs and the game ends.
-
+![preview](./image.jpg)
 ### Features:
 - Random egg drop positions
 - Score tracking
